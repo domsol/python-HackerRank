@@ -1,2 +1,2 @@
-# python-HackerRank
-store of HackerRank work with python 
+# python-
+store of pratice work -- Warning: not finished or for praticale use
